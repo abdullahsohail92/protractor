@@ -1,0 +1,28 @@
+[
+    {
+        "TestName": "Angular",
+        "TestcaseId": 112,
+        "TestStepDescription": "Enter value in Name Textbox.",
+        "url": "https://angularjs.org/",
+        "name": "Abdullah",
+        "nameAssertion": "Hello Abdullah!",
+        "totalListCount": "2",
+        "ListItemText": "build an AngularJS app"
+    },
+    {
+        "TestcaseId": 113,
+        "TestStepDescription": "Verify text of item whos index is passed in parameter.",
+        "url": "https://google.com",
+        "username": "admin1",
+        "passwordField": "admin2",
+        "fieldvalue": "Sample data from json2"
+    },
+    {
+        "TestcaseId": 114,
+        "TestStepDescription": "Verify Chai assertions.",
+        "url": "https://google.com",
+        "username": "admin1",
+        "passwordField": "admin2",
+        "fieldvalue": "Sample data from json2"
+    }
+]

@@ -1,0 +1,13 @@
+[
+{
+ "url": "https://thetestroom.com/jswebapp",
+ "fieldvalue": "Sample data from json"
+},
+
+{
+"url": "https://google.com",
+"username": "admin1",
+"passwordField": "admin2",
+"fieldvalue": "Sample data from json2"
+}
+]
