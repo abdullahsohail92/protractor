@@ -1,42 +1,39 @@
 [
     {
-        "ListItemText": "build an AngularJS app",
         "TestName": "Testcase 1",
-        "TestcaseId": "112",
+        "TestcaseId": 112,
         "TestStepDescription": "Enter value in Name Textbox.",
         "url": "https://angularjs.org/",
         "name": "Abdullah",
         "nameAssertion": "Hello Abdullah!",
-        "totalListCount": "2"
+        "totalListCount": "2",
+        "ListItemText": "build an AngularJS app"
     },
     {
-        "ListItemText": "",
         "TestName": "Testcase 2",
-        "TestcaseId": "113",
+        "TestcaseId": 113,
         "TestStepDescription": "Verify text of item whos index is passed in parameter.",
         "url": "https://google.com",
-        "name": "",
-        "nameAssertion": "",
-        "totalListCount": ""
+        "username": "admin1",
+        "passwordField": "admin2",
+        "fieldvalue": "Sample data from json2"
     },
     {
-        "ListItemText": "",
         "TestName": "Testcase 3",
-        "TestcaseId": "114",
-        "TestStepDescription": "Verify Chai assertions",
+        "TestcaseId": 114,
+        "TestStepDescription": "Verify Chai assertions.",
         "url": "https://google.com",
-        "name": "",
-        "nameAssertion": "",
-        "totalListCount": ""
+        "username": "admin1",
+        "passwordField": "admin2",
+        "fieldvalue": "Sample data from json2"
     },
     {
-        "ListItemText": "",
         "TestName": "Testcase 4",
-        "TestcaseId": "115",
+        "TestcaseId": 115,
         "TestStepDescription": "Verify Testcase with multiple steps",
         "url": "https://google.com",
-        "name": "",
-        "nameAssertion": "",
-        "totalListCount": ""
+        "username": "admin1",
+        "passwordField": "admin2",
+        "fieldvalue": "Sample data from json2"
     }
 ]
