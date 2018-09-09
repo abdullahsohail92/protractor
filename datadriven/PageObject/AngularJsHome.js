@@ -1,4 +1,5 @@
-var Angular_HomePage = function()  {
+var Angular_HomePage = function()  
+{
   //Enter in textbox 
   this.NameTextBox = function(value) {
     element(by.model('yourName')).sendKeys(value);
